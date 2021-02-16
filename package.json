@@ -10,7 +10,7 @@
     "start": "node ./index.js",
     "test": "jest",
     "lint": "eslint .",
-    "format": "prettier --write"
+    "format": "prettier --write **/*.js *.js"
   },
   "author": "",
   "license": "ISC",
